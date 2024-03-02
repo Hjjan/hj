@@ -1,12 +1,12 @@
 [
     {
 		"prompt": "We go eat dim sum tomorrow, can? Correct?",
-		"answer": "No.",
+		"answer": "No, use future tense, and add 'you coming?' in the end",
 		"link": "https://google.com"
 	},
     {
 		"prompt": "This phone no good, I don't want buy already. Correct?",
-		"answer": "No.",
+		"answer": "No, lack of linking verb.",
 		"link": "https://facebook.com"
 	}
 ]
