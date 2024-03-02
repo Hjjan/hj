@@ -2,11 +2,11 @@
     {
 		"prompt": "We go eat dim sum tomorrow, can? Correct?",
 		"answer": "No, wrong word order, missing auxiliary verb, wrong tenses.",
-		"Correction": "Can we go eat dim sum tomorrow?"
+		"correction": "Can we go eat dim sum tomorrow?"
 	},
     {
 		"prompt": "This phone no good, I don't want buy already. Correct?",
 		"answer": "No, wrong adjective, wrong verb omission.",
-		"Correction": "This phone is not good; I don't want to buy it anymore."
+		"correction": "This phone is not good; I don't want to buy it anymore."
 	}
 ]
