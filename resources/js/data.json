@@ -8,5 +8,20 @@
 		"prompt": "This phone no good, I don't want buy already. Correct?",
 		"answer": "No, wrong adjective, wrong verb omission.",
 		"correction": "This phone is not good; I don't want to buy it anymore."
+	},
+    {
+		"prompt": "We take MTR or bus, more faster? Correct?",
+		"answer": "No, wrong question formation, wrong conjunction.",
+		"correction": "Should we take the MTR or the bus, which is faster?"
+	},
+    {
+		"prompt": "U dont like dis one meh? Correct?",
+		"answer": "No, informal language, 'You' instead of 'U', not standard English.",
+		"correction": "You don't like this one, do you?"
+	},
+    {
+		"prompt": "He play basketball very good, can shoot many many ball. Correct?",
+		"answer": "No, wrong use of adverb, not in plural form.",
+		"correction": "He plays basketball very well and can shoot a lot of balls"
 	}
 ]
