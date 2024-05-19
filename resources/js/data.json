@@ -1,8 +1,8 @@
 [
     {
-		"prompt": "We go eat dim sum tomorrow, can? Correct?",
-		"answer": "No, wrong word order, missing auxiliary verb, wrong tenses.",
-		"correction": "Can we go eat dim sum tomorrow?"
+		"prompt": "He go to school everyday. Correct?",
+		"answer": "No, wrong tenses.",
+		"correction": "He goes to school everyday."
 	},
     {
 		"prompt": "This phone no good, I don't want buy already. Correct?",
