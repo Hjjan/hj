@@ -93,12 +93,12 @@ footer p {
 
 h1.card_number {
   font-size: 1.5rem;
-  text-align: right;
+  text-align: left;
   margin: 0;
 }
 
 p.prompt {
-  color: darkblue;
+  color: grey;
 }
 
 p.answer {
@@ -202,7 +202,7 @@ li.active-link div::before {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-color: #DEE7EC;
+  background-color: #808080;
   transform: rotateX(180deg);
   transform-style: preserve-3d;
   opacity: 0;
